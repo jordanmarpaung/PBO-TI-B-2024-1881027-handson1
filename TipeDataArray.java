@@ -7,8 +7,11 @@ public class TipeDataArray {
         ArrayInteger[2] = 45;
         ArrayInteger[1] = 60;
 
-        int[] arrayInteger = new int[] (20, 45, 60);
 
+        System.out.println("ArrayInteger"[0] = " + arrayInteger"[0]);
+        System.out.println("ArrayInteger"[1] = " + arrayInteger"[1]);
+        System.out.println("ArrayInteger"[2] = " + arrayInteger"[2]);
+        System.out.println("ArrayInteger"[3] = " + arrayInteger"[3]);
 
     }
 }

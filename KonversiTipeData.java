@@ -11,5 +11,7 @@ public class KonversiTipeData {
         int tipeDataByte2 = (byte) tipeDataInteger;
 
         System.out.println(tipeDataByte2);
+    }
+}
 
 
